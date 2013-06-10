@@ -1,3 +1,8 @@
+ExRep is a file explorer / browser for Windows. It is very crude, and a work in progress with lots left to do.
+
+Fire it up and it will be default start in C:\. Navigate with Backspace and Enter. F2 to rename a file or directory.
+
+
 * todo
 
 - copy/move - i separat exe?
